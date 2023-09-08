@@ -1,0 +1,419 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "samer",
+      "StafId": "54451",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"active",
+      "department":"it"
+    },
+    {
+      "id": 2,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"it"
+    },
+    {
+      "id": 3,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"it"
+    },
+    {
+      "id": 4,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"it"
+    },
+    {
+      "id": 5,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"it"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    },
+    {
+      "id": 6,
+      "name": "hamed",
+      "StafId": "54151",
+      "coverPhoto": "/test/getmake.jpg",
+      "position": "achitect",
+      "status":"unactive",
+      "department":"clear"
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "userName": "samer",
+      "password": "12345678"
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$namcxJeFv17BXDkKfnFQouEMLSykp0Qt4kvHqs0Fm/mj5bOCfgtBy",
+      "id": 1
+    },
+    {
+      "email": "livier@mail.com",
+      "password": "$2a$10$FuKDfQ6Gi03uAZHCz59eGedI16SVs6jc24T4uInK4didErXYm3A1u",
+      "id": 2
+    },
+    {
+      "email": "lwvier@mail.com",
+      "password": "$2a$10$30vvErJx2vR9SrNd2Uhr.eYVcCLRfNPtzPiusgHbWKWeulA8pkqTS",
+      "id": 3
+    },
+    {
+      "email": "lwviyer@mail.com",
+      "password": "$2a$10$Fzg7mcfmJDSjgMKvJwNcRezUNOGNQq3lSJ2da2TUCSQi3HhKhCRQe",
+      "id": 4
+    },
+    {
+      "email": "sads@gmail.com",
+      "password": "$2a$10$9rzezOuMBEfErTL4.b/Mfu2qkZQhO9b/KNZ48f6NxOBd2xds83PAy",
+      "Email": "sads@gmail.com",
+      "e": "sads@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "sdfads@gmail.com",
+      "password": "$2a$10$Ch5OUKOBEltcdxFdwAGY4OjP3f2Aw4XItrieq7Ndr/sA9zOkhOAOm",
+      "Email": "sads@gmail.com",
+      "e": "sads@gmail.com",
+      "id": 6
+    },
+    {
+      "email": "sdfdsads@gmail.com",
+      "password": "$2a$10$8liCNe8fIzZI85lrOmWl0uw8eIVbSzly5OEiGxt5FjDF0NTT/34aW",
+      "Email": "sads@gmail.com",
+      "e": "sads@gmail.com",
+      "id": 7
+    },
+    {
+      "email": "fdfds@gmail.com",
+      "password": "$2a$10$pcjWWqy/sgtpIgZKzVdJM..vwVsoki9boZqz1YULkBG0ka2RCUH7.",
+      "id": 8
+    },
+    {
+      "email": "cxcx@gmail.com",
+      "password": "$2a$10$4tUCANwF5PkEA8mDGsdFDuY4Z4H5GV53.Jo9Y80zI9DiCQJ1fJtNS",
+      "id": 9
+    },
+    {
+      "email": "cxcex@gmail.com",
+      "password": "$2a$10$Raw8.3fC4amUpjtTEmjLUOTXHPNUJej/wI7Fh0Vp583GqIiOcx2cy",
+      "id": 10
+    },
+    {
+      "email": "gh@hoty.com",
+      "password": "$2a$10$XVpjZgSKUnPPd0kJyZLEoOf//1DxXYDYSOMxDrIm7dLoM1bHxTGDi",
+      "id": 11
+    },
+    {
+      "email": "asd@gmail.com",
+      "password": "$2a$10$pTlEj/vU00TLUo4Z2gFB1.CLb.dqPFt2JlwqOmKuuSZQUxplgdKxa",
+      "id": 12
+    }
+  ]
+}
